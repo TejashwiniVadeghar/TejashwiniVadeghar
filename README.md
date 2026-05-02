@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a motivated and versatile software professional with a Master’s specialization in Artificial Intelligence and Machine Learning. I bring a diverse blend of experience in full-stack development, system engineering, and support, enabling me to deliver robust, scalable, and user-friendly software solutions.
+I am a motivated and versatile software professional with a Master’s specialization in Artificial Intelligence and Machine Learning. I have Bachelors degree in Computer Science and Engineering from  Amrita School of Engineering, Bengaluru. I bring a diverse blend of experience in full-stack development, system engineering, and support, enabling me to deliver robust, scalable, and user-friendly software solutions.
 
 With hands-on expertise in frontend technologies like Angular, TypeScript, and Node.js, coupled with backend development using Java, Spring Boot, and Microservices architecture, I have contributed to building efficient RESTful APIs and dynamic web interfaces. My work also involves rigorous unit testing using Karma and Jasmine to ensure high code quality and reliability.
 
