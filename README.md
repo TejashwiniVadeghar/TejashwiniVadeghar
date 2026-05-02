@@ -8,7 +8,8 @@ Earlier in my career, I developed strong analytical and problem-solving skills d
 I am passionate about continuous learning and thrive in collaborative Agile environments. I am eager to leverage my skills and experience to contribute to innovative projects that drive meaningful user experiences and business outcomes. Currently open for opportunities that come my way! :)
 
 ## 📋 IEEE Publication:
-https://ieeexplore.ieee.org/document/11036005/metrics
+Paper Title: Leveraging Machine Learning to Predict Disease Risk Levels from Multiple Eye Condition Indicators
+ 🔗https://ieeexplore.ieee.org/document/11036005
 
 ## 📋 Feedback Form
 👉 Feedback form - AIML Project - Fill this form: https://docs.google.com/forms/d/e/1FAIpQLScYR5WQzTrT_lkzfR4FR9m_Q5dmJi4PCm6Vl1LQLnOD1SO_Jg/viewform?usp=sharing&ouid=106690434467849909576
