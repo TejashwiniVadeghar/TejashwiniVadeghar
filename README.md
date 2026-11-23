@@ -20,7 +20,9 @@ An automated Python tool that checks website status daily
 
 ## 📊 Generative-UI-Dashboard
 AI Visual Dashboard (Generative UI): An interactive web application that transforms natural-language prompts into dynamic, animated bar charts using Google Gemini AI and Tailwind CSS.
+
  🔗Link to Repo: https://github.com/TejashwiniVadeghar/Generative-UI-Dashboard
+ 
  ✨View Live Demo: https://tejashwinivadeghar.github.io/Generative-UI-Dashboard/
 
 
