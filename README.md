@@ -7,6 +7,9 @@ Earlier in my career, I developed strong analytical and problem-solving skills d
 
 I am passionate about continuous learning and thrive in collaborative Agile environments. I am eager to leverage my skills and experience to contribute to innovative projects that drive meaningful user experiences and business outcomes. Currently open for opportunities that come my way! :)
 
+## B.Tech and M.Tech Academic Projects:
+ 🔗Link to repo: https://github.com/TejashwiniVadeghar/My-Projects
+
 ## 📋 IEEE Publication:
 Paper Title: Leveraging Machine Learning to Predict Disease Risk Levels from Multiple Eye Condition Indicators
  🔗https://ieeexplore.ieee.org/document/11036005
