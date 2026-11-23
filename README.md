@@ -14,6 +14,16 @@ Paper Title: Leveraging Machine Learning to Predict Disease Risk Levels from Mul
 ## 📋 Feedback Form
 👉 Feedback form - AIML Project - Fill this form: https://docs.google.com/forms/d/e/1FAIpQLScYR5WQzTrT_lkzfR4FR9m_Q5dmJi4PCm6Vl1LQLnOD1SO_Jg/viewform?usp=sharing&ouid=106690434467849909576
 
+## 🌐 Website Status Monitor Link
+An automated Python tool that checks website status daily
+ 🔗Link to Repo: https://github.com/TejashwiniVadeghar/website-status-monitor
+
+## 📊 Generative-UI-Dashboard
+AI Visual Dashboard (Generative UI): An interactive web application that transforms natural-language prompts into dynamic, animated bar charts using Google Gemini AI and Tailwind CSS.
+ 🔗Link to Repo: https://github.com/TejashwiniVadeghar/Generative-UI-Dashboard
+ ✨View Live Demo: https://tejashwinivadeghar.github.io/Generative-UI-Dashboard/
+
+
 <!--
 **TejashwiniVadeghar/TejashwiniVadeghar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
